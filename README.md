@@ -8,4 +8,4 @@
 
 
 ## I am interested in predictive models and CV models.
-## Recovered as an assistant at Seoul National University, and is also active as a freelancer.
+## Recovered as an assistant at Seoul National University, and is also active as a Mintit AI Engineer.
